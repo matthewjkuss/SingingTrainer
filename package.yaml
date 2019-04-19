@@ -3,7 +3,7 @@ version:             0.1.0.0
 github:              "githubuser/singing-trainer"
 license:             BSD3
 author:              "Matthew Kuss"
-maintainer:          "matthew.j.kuss@gmail.com"
+maintainer:          ""
 copyright:           "2019 Matthew Kuss"
 
 extra-source-files:
